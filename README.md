@@ -1,5 +1,5 @@
 - hi there, i’m @coffeetops! 
-- i'm currently an OSU student w/ a degree in cybersecurty + a currently working on my secondary in compouter science. 
+- i'm currently an OSU student w/ a degree in cybersecurity + a currently working on my secondary in computer science. 
 - i’m looking to collaborate on python projects, malware analysis, ethical hacking, threat hunting, DFIR etc. 
 - want to reach me? email- ntsmz@pm.me and linkedin- www.linkedin.com/in/nataliasmarquez 
 
